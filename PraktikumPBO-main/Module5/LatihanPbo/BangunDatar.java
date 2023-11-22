@@ -23,11 +23,12 @@ public class BangunDatar {
         double keliling = bangun.hitungKeliling();
         double luas2 = bangun2.hitungLuas();
         double keliling2 = bangun2.hitungKeliling();
-
-        System.out.println("Luas Bangun datar: " + luas);
-        System.out.println("Keliling Bangun datar: " + keliling);
-        System.out.println("\nLuas Bangun datar: " + luas2);
-        System.out.println("Keliling bangun datar:" + keliling2);
+        
+        System.out.println("Based on task in OOP\n");
+        System.out.println("Wide: " + luas);
+        System.out.println("Perimete of flat Shap: " + keliling);
+        System.out.println("\nWide: " + luas2);
+        System.out.println("Perimete of flat Shap: " + keliling2);
     }
     
 }
