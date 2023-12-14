@@ -45,7 +45,4 @@ public class CustomerData {
     }
 
 }
-interface Calculatable {
-    int calculateRasioBunga();
-}
 
